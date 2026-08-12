@@ -1,3 +1,6 @@
+#Integrantes
+- Augusto Ferreira Rogel de Souza / RM557709
+
 # ADOLab
 
 Projeto de estudo de acesso a dados com ADO.NET, composto por uma biblioteca de domínio, uma aplicação console e uma aplicação web MVC.
